@@ -1,0 +1,14 @@
+{
+  "name": "react-task-tracker",
+  "version": "1.0.0",
+  "description": "an rest api for react task tracker",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "author": "cronos1967",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
